@@ -55,6 +55,6 @@ public class LamdaAsyncTest {
         System.out.println("Task exception requested on thread "+Thread.currentThread().getId());
 
 
-
+        // [참조] https://m.blog.naver.com/2feelus/220714398973
     }
 }
